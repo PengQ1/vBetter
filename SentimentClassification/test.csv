@@ -1,0 +1,212 @@
+id,text
+0,it's not like I haven't been talking about it for 6-8 years on my own blog.
+1,"With a modern data center, you can cut costs and improve #security. Join us in Houston tomorrow to learn more. http://bit.ly/2tH4MXR"
+2,"In today's storage landscape, there is a myriad of choices! Find out why #VMware managed storage is your answer:  http://bit.ly/2VuMzKn"
+3,"I hoped that it could be done via GUI.  I didn't even know about PowerCLI, but I'll try it [I'm a total newb, so not sure if I'll succeed].  I just can't understand why such an obviously demanded feature is not in the box...  Thanks for your help."
+4,math final tomorrow...im getting an ulcer over it
+5,Huh... I wasn't expecting that to show up on Twitter.. Time to fix that. :(
+6,With the labs available online now I took the approach of not doing any at vm world and use that time for more sessions last year.
+7,"My findings were mismatched MTU settings on the switch or storage.  I didn't have the time to figure out the exact culprit (and those parts aren't my responsibility), but scaling down to 1500 resolved all issues immediately.  I would only suggest using jumbo frames on dedicated iSCSI networks with properly configure vmnics/vSwitch/portgroup/vmkernel."
+8,for some reason I don't get them either
+9,Is hungry....wants good food...I want my mother back to feed me
+10,Happy (late) Memorial Day from my family to yours!
+11,A doctor who graduates at the bottom of his class is still a doctor...  Good job man!  Crack a cold one and chill!
+12,Someone threw my keys away in the trash  had to dig thru it to find it ... Bad times [
+13,"They are flashed with WDidle, and spindown is disabled. I'm not sure about the WD ESXi is running from tough. Thanks for the insight, I will look into that! Would that explain the reboot problem tough? I guess they spin up on power-on? I guess it is time to change it anyway :)"
+14,"This response seems way more valid, you know this, lol. I see your point; that's also why I wondered if the ~$270 was worth it, being that I'll have the board maxed out on memory either way. I'm pretty sure I'm going with the 3900x, it just seems to be the better choice."
+15,"My wife has this same issue with running games in VMWare Fusion on Windows  7.  She to has a Macbook Pro with Intel GPU.  I had her bootcamp instead and her issues went away.  Also, old mechanical 5400 RPM drives tend to run poorly after a few years of service on Macbook Pro's.  You could ask your IT Department for an SSD if you already do not have one."
+16,You have devolved into pedantry and fallacies to support an incoherent and dumb point of view that is so plainly wrong that it hurts me to think there are people who are this obtuse.
+17,"The VMware answer is **NOT** to delete the VM or delete the hard disk. Simply booting off of the ISO, formatting the disk, and re-installing the OS is the proper way to go about doing this.   Edit: Unless it's a different OS entirely, then yes, kill the VM and recreate it. We use predefined virtual hardware settings when you select your OS for best performance."
+18,"Agreed since relationships are important and moving around can effect credibility.  However, as technology changes, one must represent the best technology, so there will always be some level of moving around."
+19,Just had a chargilled chicken sandwich from chick fila tryna do the right thing - Sooo not good!!
+20,Q: How do you monitor a database consistently and reliably? \nA: @WavefrontHQ \n\nLearn more here: http://bit.ly/2BcjnN1
+21," Nexenta: good performance  All thanks to ZFS! Having their HA up and running' is cumbersome, though."
+22,"Yeah, i was hoping to get the free one. (Hahaha!) Not yet out"
+23,"eff this nausea business. just gonna hang 2nite n watch movies with my dad,craig,&amp;peanut. love just layin around. boo bout my foot  ouch!"
+24,"This is the right answer, although not extremely helpful right now.  The future you will thank you though.   When you change the template, update the number.  You will be so happy when this is actually needed and you can quickly and easily identify all VMs built from a specific template and version."
+25,"Unfortunately this is a very locked down environment and we have no way of remoting into the host. Its all blocked. But I am on the DC and looking at the logs, which dont seem to be helpful to me :("
+26,hoping that sleeping will take away the pain in my ladies...
+27, the documentation needs work  Understatement of the year.  In some places it looks like a collection of development notes.
+28,"Explain how it takes 12 hours to do 0% of the clean-up, then the cancel button also doesn't work."
+29,"Agree with you there, @the_eggwhite. My hayfever is bad today. Not using prescription stuff but 1 pill &amp; spray's have not banished pollen"
+30,@g_mulholland @tomralph A little harsh don't you think?
+31,minimal procedural burden but maximal service quality
+32,"I arrived here via Google and cannot tell what product this is for, or where I am in the mass of the aware documentation hierarchy. There should be a bread crumb or some sort of path or other indicator about where I am, and what product this feature actually applies to."
+33,just got home. work tomorrow. i know &quot;work is a four letter word&quot;. no pool fiesta for moi  bummer.
+34, we are currently on a change freeze   That sounds amazing.
+35,That's a remarkably small amount. You're a unicorn.
+36,"Well, when you're on a tight budget..."
+37,I just woke up from the worst nap ever and to top itoff I'm hungrier than I've been in a long while *shakes head* fml
+38,We're running the latest 5.5U3b (Build: 3248547) so this should not be the issue.
+39,FTT=2 is for 6-9s - you get between 4-9s to 5-9s for FTT=1\nCost efficiency is going to improve soon ;)
+40,Think @PembsDave must have blocked me as not heard a Tweet from him for a while
+41,"Hello,   It is the same for me ! It is totally bad from VMWare.... I'm waiting for this update but 0 effect... The issue still here... On the concerned vCenter ""**A**"" : We are up to date on all our ESXi(s) :  VMware ESXi, 6.7.0, 14320388  / Cluster and the vCenter  6.7.0 - 14792544 .  But as like you, we didn't have the problem on another vCenter ""**B**"" (Horizon environment only used with vSAN). On this vCenter we didn't performed the update because all is good... We are in  6.7.0 - 13639324 for the vCenter and for the ESXi, 6.7.0, 13981272.  The difference between vCenter A and B is that on the vCenter A (where we have the issue) we have 4 vSAN Clusters and 10 FC/Classic Clusters. Maybe the issue can from this mix ? I think before that the issue from that fact we started from 5.5 or 6.0 (i don't remember) but now, i don't think that it was the only problem...   Someone have already open a case on VMWare ?"
+42,hayy gurll i know i would always kick your ass but thats not the pointt  i miss you bb its scorching hot here
+43,no clear steps to migrate or upgrade existing Vcenter and SSO where these roles are on separate servers and seems we ended up with just do a trail upgrading existing Vcenter and SSO to single PSC/VC to 6.5 version
+44,"Catching up with work on my day off... dedicted or stupid? Either way, I'm really missing the Friday morning cakes"
+45,"hostd.log will have the event, it will look like  ""Remote access for ESXi local user account 'root' has been locked for 900 seconds after 45 failed login attempts."" ""Rejected password for user root from &lt;ip Address"""
+46,"Thanks. I do have some View experience (although 1-2 years old at this point), and luckily I have another sandbox to play in before I go.  The end result is working with NVIDIA GRID, which should be fun."
+47,It's not a vSphere view or a CLI tool but check out RVTools at http://www.robware.net/  It should give you all of the information you are looking for and then some. PowerCLI can certainly do it as well but RVTools makes it super easy.
+48,"Awesome work @Virtual_Simon, but I just want to re-iterate that the licensing changes does NOT affect #VMWonAWS as I see you ran this against a VMC setup."
+49,Community storage & availability code samples now on StorageHub! Get the details: http://bit.ly/2J89eYT
+50,"New #VMware #Horizon (with View): Install, Configure, Manage v6 course now available via classroom & live online.  http://bit.ly/Xi3Tng"
+51,"Doing it by name can cause a lot of problems.  In our environment, we have an isolated set of clusters with each ESXi host having 2 IP address.  One for SSHing and remote consoles, and one that the vCenter server talks to it over.  So we stand up the vCenter server, then put in a host file entry for each of the hosts by the DNS name that we are using.  The host file uses the IPs of the isolated network.    Then we set up the ESXi host, set up the other VMK interface, and give it the IP address of the ""management"" network, and we're done.  Our PCs use a DNS server that resolves the management network's IPs, and the vCenter uses a host file to get a different IP."
+52,probably.  I hate handwashing. I hate washing in general
+53,I wish you guys would get things solved with Travelport ASAP. I book a lot of corp travel w/you. Now it's more difficult :(
+54,wonders how some people can treat  the elderly as if they're dumb. I wish I could be with my Nan right now.
+55," That's awesome, if you were my Summer school teacher it wouldn't be a bore I'm sure! It's cold here!!!"
+56,This is what happened in my AD 2008 class a while back. They told us sign this document to allow access to the online resource or you will have to wait 2 weeks for a physical book..  Pretty frustrating.
+57,"Don't miss Mobility featured tasks today, this week at #CloudCred - Plus your chance to win a Webcam soon!  http://bit.ly/292VChC"
+58,410/500 but I'm done trying to keep it current.  Not worth the effort to have to dive deep in the weeds every couple of years.
+59,"If I install esxi to an SD card or flash drive, could I boot off of that and see if it still crashes? That would at least tell me if the VMs are crashing the host or if its ESXi right?"
+60,@jtroyer I wish I could have made it!
+61,"Oh, that's awesome, then! Should be much better performance for me on Windows. Cool!  Thanks for posting this, OP!"
+62,"VMware player is free.  And it'll even run ESXi, so you can totally go down the rabbit hole.  If you need new hardware, you want something with hardware virtualization acceleration (vt-x).  Get lots of ram too!"
+63,"I forgot my iPod, no morning music today on the train"
+64,i dont wana leave hollywood in 3 hours
+65,And check out virten.net and v-front.de. you can often get drivers even if they arent officially supported.
+66,"New videos have been added to the ""#VSAN in 3 Minutes"" video series! Visit #VirtualBlocks to check them out:...  http://fb.me/7ssOSyxbm"
+67,I've done some digging but it's unclear and I can find nothing that says if I should upgrade vCenter first and then move servers and or move servers first and then upgrade.   I didn't realize that one could P2V to a ESXi host rather than vCenter itself. I'll look into that! Thank you! Have you ever tried to P2V a vCenter?
+68,It's going to be very cold in the caravan in the driveway. :)
+69,@MBLeib looks like an old Star Trek episode. :)
+70,"Yes,  I use PernixData FVP with local SSD to accelerate many of our VMware workloads.  There's a free trial available if you want to try and the latest release will also use RAM for acceleration so you don't even need to add SSD if you just want to try it."
+71,not at all... i am sooo depressed im not going.... i wont lie... i shed a tear...  hahah
+72,It's a work phone leave it alone until it's fixed by your IT department. You do not own it don't risk your job over something silly.
+73,+1trillion man. So sad right now.
+74,did that...have to go apply for a new card now.
+75,"I feel I need to clarify something important:  I work with firm windows, and can take down pods when I do this.  I do the above in a single window, and often will run several installs in tandem.  My big priority is getting everything done in one window, and the ESXi upgrades eat time, so I like to get those going as early in the process as possible- thus the early vSphere upgrade.  HOWEVER...  You are running 7.4, and is isn't supported on 6.7U2.    You should probably upgrade the Composer / Connection server first in case you have an issue or run long on your upgrade."
+76,"VMware Certification Exams are 75% off at #VMwarePEX - space is limited, reserve your spot today.  http://bit.ly/1kxS8yU"
+77,"Just added a PTR record for the host and still nothing. Everytime I go to permissions, add permission, then add, under the domain option it still only shows (server), not domain.local."
+78,to sick for my SF trip sorry Adrian  ...
+79,New blog: #Kubernetes and VMware Enterprise #PKS Networking & Security Operations with NSX-T Data Center\n\n http://bit.ly/2WVARgf  @vmwarensx
+80,"I mean, I've met guys that have 600 hosts and 3500 guests. It's work."
+81,"@vmtyler @cxi Ok, I bought Blogo in hopes that you'll add the stuff I asked for. :)"
+82,"i went to the gun show with matt, now i'm taking my sick self home"
+83,"Tried that &amp; unfortunately, it didn't work.  Thanks for the suggestion though."
+84,"Try to make a virtual machine that works, without 'where the hell you talking about' device credential guard bullshit notice"
+85,VCP 5.5 would be fine. I just took a practice exam today and passed. I  think I should be able to pass the real exam with a little cramming. Thanks.
+86,The random enabling of ATS on one ESXi 5.5 patch release caused a bit of some issues with storage arrays.
+87,lets not talk about it it alrady hurts even thinking about it !
+88,that was great. Sent it to my wife and son for their next baking experiment
+89,Join us for the Modernize Data Centers track event! Don't miss out on speaking w/ #IT experts & more. Register NOW!  http://bit.ly/2gz3XLd
+90,"@DuncanYB @fabiorapposelli oh man, if only it was that easy!"
+91,uh oh! I know my calender is right but I'm still sitting here by myself ... always get nervous that I messed something up!
+92,"So how many sites do you have (or to ask another way how many VCs do you have)? You may just need the single SRM pair, you can have protection groups and recovery plans going in both directions across a single pair at the same time."
+93,it was a closed set so sadly no pics allowed
+94,nope it's the same junk it was back in 2003  we provision some linux or bsd vms usually to expose nfs from windows
+95,#NAME?
+96,best/cheapest methods  How much risk are you willing to assume?
+97,western digital dismissed sandisk 's caching product : no updates or dev't planned .. go somewhere else :(
+98,"Awesome, thanks. Looks pretty focused on the certification track. Dig it!"
+99,How many cups do I need?  Do they have the be glass or are mugs ok?  Is there a conversion?  Do beer steins count double?  :)
+100,"teaching my dog how to walk on a leash, its so hard  anyone have any tips? my dog hates it so far xD"
+101,hey twitter i miss u...i so wish i had twitterberry again but it fuks up my fone  start working monday full time wnt b on here much ;-(
+102,In bed. Dying. Drinking theraflu. I smell like vicks.
+103,Congrats and best of luck on the CID. Make sure to read the vCAT 3.1 inside and out and prepare for more mind melting questions similar to the DCD. I scored the best out of my vCAPs on the CID but it was by far the toughest of the 4.
+104,"If you are doing the free hypervisor, I  struggle to understand why you would use VMware over Hyper-V. I understand that this is the VMware subreddit and that this may not be business related, but the free version of ESXi is missing a lot of crucial features that you would get with Hyper-V (Backup API's being the big one)."
+105,"Strict co-scheduling is, when all vCPUs if a VM can be scheduled on the physical CPU cores.   With Relaxed co-scheduling, vCPUs of VMs can be scheduled independently e.g. when not all vCPUs are used. This creates a cpu skew. If the skew is too big, the vCPUs that have been run more often, have to wait for the other vCPUs to keep up. When the application inside the VM expects all vCPUs to be scheduled in parallel, this can again lead to performance loss. It was introduced in ESX 3.x and improved in 4.x.  It's all explained on vSphere 6.5 Host Resources Deep Dive page 156. It's available for free and a great resource if you want to understand how ESXi works."
+106,"accidentally stole Ashleigh's debit card last night, now I need to make my way to Brisbane"
+107,I do think the witness could go in AWS with DirectConnect or similar without issue
+108,This are the type of problems that have caused me to lose vm's in the past. Network errors.  VSAN should be more resilient to network issues.
+109,just wasted about an hr trying out various uncharted beta codes. none of which worked
+110,#NAME?
+111,I'd like to see VMUG not sell member contact information to vendors.
+112,Damn can't find no jeans to fit my ass  and that's a size 11/12 http://short.to/gmiv
+113,"I want to virtualize my physical machine, but only the OS and Programs with none of the files and data. This did not tell how to do that."
+114,been running my domain controller on a vm for the past 4 years with vMotion enabled and not a single issue with replicating.  I would say what they are saying is a crock of $hit
+115,Enterprise-ready. Linearly scalable. Exceptional performance. VMware #VSAN:  http://vmw.re/1RyWdD7   http://fb.me/4naSytwaG
+116,"There is a reference to go to ""vSphere Single Host Management""  in order to license individual ESXI hosts, but this is not an active link."
+117,Yet I still don't have an answer how our vSAN cluster died last June.
+118,How does Ambien wear off or not take effect? I took it over an hour ago.. WTF? I want sleep NOW! My brain hurts
+119,"ghosthunters is an awesome show , wish it came on more often"
+120,You could make load runner work. The problem is you might run it and get great results but still have poor user experiences due to other factors like network etc. Also something like View Planner can generate load.  I would suggest vRealize Ops for View and Lakeside Systrack.  Between the two of them you'll get all of the real time and historical data you need to gauge user experience and they aren't that expensive.
+121,At home!! Yeah its 6:18am! My dad will b mad at me 4 take the party to long!!  bit ot was awesome! Lol
+122,Is #technology fundamentally changing our #economy and our ability to regulate it? Interesting piece from WIRED. http://bit.ly/2xfRjLt
+123,"How to know, on which vmware guest my usb device is attached?"
+124,"I may have misunderstood, as I was talking about NSX for virtualised networking.  If you're talking more like VLANs and segregation on your switching hardware, then I think the biggest question is whether you're suffering bandwidth constraints on your current gigabit interfaces.  If not, sticking with your current interface set up, and building on that with greater segregation etc., may be a cheaper and more effective way to keep learning. I've only moved to 10Gb for VM storage connections in my lab, since running storage for multiple VMs over a single gigabit connection can get a bit restrictive."
+125,"Thanks for the heads up. The last diagram in the supported deployment models list is what I'm hoping to achieve. However I appreciate with my current setup I run the risk of moving into the first ""depreciated"" model."
+126,&quot;give lindsay a hug for me and thank her for the music on my ipod.tell her i love her and ill see her when she gets back!&quot; -- i miss her
+127,I did that and then the vm won't boot at all. And i only have 1 booted up at all time the win10 vm was only for testing
+128,"Yep, not working like that.  You'll have to shutdown/freeze the VMs, put the host in maintenance, and patch the host manually via CLI.  I'm curious though, why a vCenter when you have only one host?"
+129,Thanks for the suggestion. Unfortunately doing a disconnect/reconnect didnt resolve the issue. I'm hoping support has a resolution.
+130,sing it with me.. rain rain go away...
+131,"Awesome, wildcard cert is a must!"
+132,"We never used vGPU for our VDI.  I did test it on my VM once but since you have to dedicate an entire host to being for vGPU only, and it doesn't support vMotion, we decided hardware vSGA was good enough."
+133,Really?  What then?  Sorry I misses your B-Day celebration.  I was out of town.
+134,This doesn't work.  The limit is 3 hosts.  I'm running VCSA 6.5.0.9451637
+135,"awww Bish... was accident, honest   think i'd waste wine on purpose? ;)  dunno if u're missing anything Britney-wise :-/"
+136,Provide actually working suggestions on how to fix the problem.
+137,"Unfortunately , after making the changes, the problem still persists."
+138,The latest #vSpeakingPodcast brings in Kit Colbert (@KitColbert) to discuss the Photon Platform and vSphere...  http://fb.me/50gpbrQgF
+139,Also like to point out you can tun on SIOC and it dynamically handles this (just be careful of noisy neighbors).
+140,"I don't think anyone disputes that there are gains (even if they do dispute the amount) but we are just saying that it isn't worth the support headache and unpredictable reliability.  I also question the scale of some of these measurements.. I support 1100 hosts and every time some clever design engineer specs jumbo frames, it bites us later. To the point where we stopped approving them for operational handoff.   Edit: if you have a smaller, more controlled environment.. By all means, go for it... It just hasn't worked for us at scale. Maybe it is a process problem, or too much siloing, or not enough standardization, or who knows what else. Scale is hard."
+141,"This is operating under the assumption that there isn't anything physically wrong with the uplink, cabling, or upstream switch, since we're seeing reports of the link going down immediately prior to the PSOD."
+142,Foot feeling better  But no more beer or other yeasty stuff  But lots of icecream and cake :-D
+143,"nope! No special treatment, wanted to make it fair for everyone. \n\nI just thought it was fun to hear from folks who've left that are still excited for things like this :) \n\nHope you're doing well"
+144,"You might run into NUMA spanning issues with16 vCPU. Best to evaluate the actual needs of the VM as others have said.  Remember, though, that even if a guest OS doesn't use some of its vCPU allocation, vCPU assignment still imposes resource requirements on ESXi that translate to real CPU consumption on the host.   It can also depend on how busy your host is. The general concept floating out there of ""more CPU equals better performance"" has the consequence of CPU processing taking significantly longer on a busy server than if the VM in question only had a single CPU assigned."
+145,can't get on MySpace at the moment... anyone else having the same trouble? Perkele!
+146,"Glad you got it Roberto, enjoy!"
+147,New Horizon Air Desktop campaign available on the Partner Demand Center. Save time & money with this content.  http://bit.ly/1xCCI3D
+148,"I see absolutely zero value in doing this... It's not a requirement of CJIS, why would any organization adopt it. I would push back on this and write a better password policy."
+149,that's what I figured LOL... Although every time I rent something I don't play it because I want to play call of duty
+150,Have you used the free VSAN Assessment Tool with your customers yet?  http://vmw.re/1UR5vfU
+151,"Yep, it was there. I did not have the reverse DNS in there the first time around, got the error, added the record, pressed retry a few times and it continued to fail. Figured I'd cancel and start over, and it said rebuild the appliance. I got pissed, made this post, cooled down a bit, then redeployed the appliance and it worked.  &amp;#x200B;  Not sure why it didnt pick up the new record during my first attempt (i did sync my small 2 DC domain) and DNS was configured on the NIC for the appliance. Histories mysteries..."
+152,You're doing awesome work buddy...
+153,Heading to VeeamON 2018? You bet we'll be there!  Don't miss the vSAN Compatibility with Veeam Availability Suite showcase!  http://bit.ly/2whlCBe
+154,"Okay, I am only at 1809, as 1903 although close has not been released to general public.  May be a bug.  Have you tried updating your video drivers on the host?"
+155,"sorry can't talk now, busy working on new buggy virtual firewall that has extremely limited monitoring capabilities and isn't really a finished product."
+156,text me again cuz i didnt get it  13109611046
+157,Quite the collection you got there Saif. Happy reading!
+158,but I've been married for 15 years!
+159,"Yes, I have had the same issue as well within the console. Most annoying when you're trying to enter a password to login.."
+160,Yes.  Any of the 5.0/5.1/5.5 vSphere ICM/ vSphere Fast Track/O&amp;S/Troubleshooting classes qualify you to take either VCP510 or VCP550 exams.
+161,&quot;Libs are the NATIONAL redecorators&quot; sad but true
+162,How can a hyper-converged solution benefit your datacenter? Find out tomorrow during the 5/3 webcast!...  http://fb.me/1cysJ7YHW
+163,"loading up the car, running a few last minute errands, spending some quality time with my bfs, before leaving radddd"
+164,Phone is backed up with texts. Might not get them if you send them  stupid technology. Lol
+165,and these has been not a single drop of rain here in Karachi since Long
+166,I would imagine it would work but vm tools functionality might be off...  Since the post I tried the same on what I thought was an identical load and it worked... turns out I selected the wrong esxi iso and installed 6.7u2 instead of 6.7u3.  The 6.7u3 on the other system worked fine.  So I suspect the win10x64 128gb limit is specific to 6.7u2 and was fixed in 6.7u3.  I'll verify in a few hours.
+167,Thanks Chuck that all makes sense to me. I will lower some of our Dev / Cert VMs and check performance impact.
+168,enjoy the device Mr. or Mrs. Winner
+169,Consider that the password is Correct but the account is Locked. Look at `chage`
+170,The IT department at Oregon State University turned to #VMware #VSAN to handle the school's growing workloads:  http://bit.ly/1JFQU48
+171,This is really odd they are making thick clients for everything now that they are deprecating the thick client.
+172,Ask around when you get there.  Lots of folks don't go to the event and might be willing to loan the pass for the evening.
+173,Schedule Builder is now LIVE! Start planning your #vmwarepex experience now bit.ly/wreT0X
+174,hurt deer in our backyard this am. Animal control trying to catch-no luck. They will use dart gun or Police will have to kill her
+175,Oooooooo......maybe for Halloween :)
+176,"At least for normal organizations that aren't actively developing software, the application vendors are going to drive container adoption.  In my organization I am seeing and assuming will continue to see more SaaS. Vendors can double dip, charge for the infrastructure and software, even if they have their app on top of Azure/AWS."
+177,Could I ask that you raise an SR and let me know the details once you've provided logs?  6.7U2a (both vCenter and ESXi) was just dropped on Monday or Tuesday this week.
+178,"Avamar Virtual Edition is pretty good and the replacement for VDP. Also, permits for any physical nodes as well and customer installable."
+179,I'm a bit confused on the licensing strategy.    I was told if you're running SQL as a VM the physical hardware doesn't matter from a licensing standpoint.  It's the number of virtual cores that you're allocating to the VM (with a minimum of 4 virtual cores).  You won't need to worry about CALs as they're included in the core-based license model.
+180,"I think your idea of using the passmark as a template for sizing isn't too bad.  Obviously the passmark score stresses certain aspects of a CPU more than others (integer &amp; fp performance over cache and bandwidth), so the actual extent of the performance improvement will depend on your application.    Is there a way you can benchmark your VMs though?  Some kind of standard by which you measure their performance.  I'd try running a VM or 10 on one of each of the types of hardware with the same number of vCPUs per VM and see what kind of performance difference I see in the application itself."
+181,I can't find anyone else I know who is on Twitter....I am so alone here
+182,Agreed. Sounds like management are trying to point fingers rather than concentrating on the actual root cause.  Typical.
+183,Size your shared storage for I/O not capacity - always.   You'll almost always run out of I/O before capacity on any production storage.
+184,"And 10Gb is actually only a generic number in the driver.       With the right CPUs and Memory config, you can actually get more than 10Gbps between VMs on the same node."
+185,Good luck! I'll be at the Vegas show! No extra tix though
+186,"Since when?  They have APIs for python, JDK, SOAP... Shit, whatever the hell you are smoking, I want half of it."
+187,Yes that is what I meant in my original post.  Good luck.
+188,VMw & HP partners: customizable -no cost Keep It Simple campaign assets power up your HP Smart Bundles for vSOM sales  http://bit.ly/IxCeX9
+189,Count me in! I would love to have this one as my first homelab server!!
+190,"I do not use vSAN as I don't believe the product is mature enough and the ""know how"" in-house is not at what it should be, nor is it easy to get that on the ""open market""  &amp;#x200B;  Love this forum"
+191,@vBrianGraf @tenthirtyam I know it's going to be very popular..
+192,Sure no worries.  `cd /etc/systemd/system`  `systemctl list-unit-files | grep masked`  This will show you the list of services which are masked. Then go thru the list copying the service name and run unmask cmd. E.g.  `systemctl unmask vmafdd.service`
+193,"2003 Fleetwood Cottonwood. In decent shape. Very clean, all original. Towable by a minivan. \n\nHeading to bed. Ttyl :)"
+194,Thanks. Is there any reason to have lots of storage on the hosts?  Say I get a NAS. Won't that be a single point of failure?
+195,"New versions of #vSphere, #vSAN, and vRealize Operations Manager make it very easy to deploy vRealize Ops and view dashboards directly in the vSphere Client! Learn more: http://bit.ly/2SBqGGs"
+196,Interesting I didn't know you could deploy hosts with ansible
+197,I'm the OS admin but the VM team is swamped and said they would show me the log insight today.   I'm thinking you're right.   Thanks!
+198,"Good to know about the configmax stuff. I'll check it out.    I hope to get some questions on VSAN. I have it turned up in my lab just to better understand it.   &amp;#x200B;  Getting VSAN turned up was a great project in and of itself. It was not turnkey one bit. I turned up a 2-node cluster with a witness.    List of issues...  1. my esx hosts did not recognize all my disks    1. Turned out that since I had used some of them in a ZFS array at one point, vmware was not able to deal with the partition tables on those disks. Had to dig into the esxcli and partedUtil to manually wipe the disks so my hosts would be able to use them for the VSAN cluster. 2. Once VSAN was turned up, I had a bunch of  health check errors.     1. first big one was my networking, although technically functioning, had best practice issues.        1. This caused a few redo's of the configs for the physical switch, the vSwitch, and the portgroups.        2. Converting it all over to a distributed switch is on the todo list.       3. For the record, my vm access networks are all on distributed switches specifically to understand distributed switches... 3. Then, when I was running into a number of other issues that I could not figure our for the life of me, I realized that the witness disks were an older disk format (6) than the cluster disks (7).     1. This led me down the path of figuring out that the witness appliance was an older version that the hosts in the vsan cluster.    2. Once I updated the witness appliance, 95% of my errors went away.  4. All I have remaining is a warning about my ""Time Sync"". Which is odd since the hosts and witness are synced dead on, but all three are nearly 2 minutes off from vCenter. yet they are all configured with the same NTP source.  5. A warning about my raid controller. not surprising, im using an old hp dl380 6. And a network config warning for not using a DVS"
+199,"Yeah man - they won a loyal customer with that.  And, not to mention, they even implemented some things that were suggested!"
+200,"@pwnall Well, I think I just found my sunday afternoon reading. Very cool stuff guys!"
+201,"No need to re-invent the wheel. You may be interested in [RVTools](http://www.robware.net/) instead however it is .NET application with gui, instead of a PowerCLI script."
+202,Does not see option VM -> Install Guest Tools on VMWare Workstation Pro 15
+203,Hahaha. When I worked at Digital everyone thought we made watches.
+204,Congratulations!  Lemme just ice that cake for you.
+205,I dunno how to do that  and I don't want to go to the party saturday because I just don't want to get hurt again
+206,Strategies & best practices to successfully acquire new customers - Attend this VMworld Partner session:  http://bit.ly/PunmJT  #VMworldSMB
+207,"So... if you have \\*more\\* machines that need the change, change the VLAN ID on the port group, and then go back change the ones that are supposed to be on the old one? Fewer changes? =P =P. Majority rules, right? lol =P."
+208,"Yes.  If the vms are on the same host.  It's an advanced configuration, but you can share the same vmdk."
+209,"@jfrappier @BostonVMUG Sorry, can't make it :( Off to the Mothership tomorrow."
+210,yeah I know - unfortunately it's shit but true!  the software should be available from 1802
